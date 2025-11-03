@@ -1,7 +1,7 @@
 <Html>  
 <head>   
 <title>  
-Registration Page  
+Nguti Registration Page  
 </title>  
 </head>  
 <body bgcolor="White">  
